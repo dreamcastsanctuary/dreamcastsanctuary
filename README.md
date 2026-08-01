@@ -1,6 +1,6 @@
 <img align="left" style="margin:16px;" width="435" height="321" alt="image" src="https://github.com/user-attachments/assets/db234814-94af-4c2e-9526-0d4c6b09e6aa" />
 Yo! The name's Sonic, but you can call me Sanctuary!<br>
-I'll make this short, 'cause this is my *actual* programming GitHub.
+I'll make this short, 'cause this is my programming GitHub.
 
 
 
