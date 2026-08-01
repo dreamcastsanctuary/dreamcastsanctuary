@@ -19,8 +19,3 @@ I have two years of experience in a professional software development position a
 
 > [!NOTE]
 > If you ever wanna talk, just hit me on Discord! @fastestthingalive
->
-> Note that my code smell is awful. I know.
->
-> I'm in a head with 4 other programmers
-> and none of us can agree on anything.
