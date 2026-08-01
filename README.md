@@ -19,12 +19,3 @@ I have two years of experience in a professional software development position a
 
 > [!NOTE]
 > If you ever wanna talk, just hit me on Discord! @fastestthingalive
-
-<br>
-
-<p align="right">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dreamcastsanctuary&custom_title=%F0%9F%8C%80%20%3A%3A%20Coolest%20Languages%20Around!&stats_format=bytes&theme=transparent&hide_border=true" alt="Anurag's GitHub stats" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
