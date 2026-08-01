@@ -13,7 +13,10 @@ I've competed in competitions, hackathons, and have 6 years of proper programmin
 
 I have two years of experience in a professional software development position and am comfortable in many languages.
 
-<br>
+<br><br>
+
+<img align="right" width="341" height="117" alt="image" src="https://github.com/user-attachments/assets/bb6c7fcd-9db3-412b-b768-221c2c86b790" />
 
 > [!NOTE]
-> If you ever wanna talk, just hit me on Discord! @fastestthingalive
+> If you ever wanna talk, just hit me on Discord! @fastestthingalive 
+
