@@ -18,5 +18,13 @@ I have two years of experience in a professional software development position a
 <img align="right" width="341" height="107" alt="image" src="https://github.com/user-attachments/assets/bb6c7fcd-9db3-412b-b768-221c2c86b790" />
 
 > [!NOTE]
-> If you ever wanna talk, just hit me on Discord! @fastestthingalive 
+> If you ever wanna talk, just hit me on Discord! @fastestthingalive
 
+<br>
+
+<p align="right">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img width="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dreamcastsanctuary&custom_title=%F0%9F%8C%80%20%3A%3A%20Coolest%20Languages%20Around!&stats_format=bytes&theme=transparent&hide_border=true" alt="Anurag's GitHub stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
